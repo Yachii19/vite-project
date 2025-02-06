@@ -16,7 +16,7 @@ function InformationBox({ boxContent, boxColor, boxWidth, boxHeight, borderColor
         width: boxWidth,
         height: boxHeight,
         backgroundColor: boxColor,
-        border: `2px solid ${borderColor}`,
+        border: `3px solid ${borderColor}`,
       }} className='box-container'>
         <div className='box-content'>{boxContent}</div>
       </div>

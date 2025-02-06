@@ -28,11 +28,11 @@ function App() {
   return (
     <>
       <InformationBox 
-        boxContent="CPEITEL" 
-        boxColor="#bbdefb" 
-        boxWidth="200px" 
-        boxHeight="200px" 
-        borderColor="black" 
+        boxContent={"CPEITEL"} 
+        boxColor={"#bbdefb"} 
+        boxWidth={"200px"} 
+        boxHeight={"200px"} 
+        borderColor={"black"} 
       />
     </>
   );

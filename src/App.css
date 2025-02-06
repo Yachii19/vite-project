@@ -1,0 +1,23 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.name {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.box-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-content {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
